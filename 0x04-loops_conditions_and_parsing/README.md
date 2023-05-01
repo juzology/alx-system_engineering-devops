@@ -1,1 +1,1 @@
-loops, condition and parsing
+loops, conditions and parsing
