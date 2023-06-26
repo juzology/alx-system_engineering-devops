@@ -1,1 +1,1 @@
-configuration management
+cm
